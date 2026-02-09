@@ -17,6 +17,9 @@
 
 Built with **Next.js** and **React Three Fiber**, it demonstrates how complex scientific models—specifically the **Generalized Lotka-Volterra (GLV)** equations—can be rendered accessible and intuitive through high-performance web engineering.
 
+<div align="center">
+  <img src="./public/demo.jpg" alt="MicroCosmos Demo" width="100%">
+</div>
 ---
 
 ## ⚡ Key Features
